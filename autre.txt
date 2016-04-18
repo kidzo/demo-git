@@ -1,2 +1,3 @@
-une ligne de qualit�
+﻿une ligne de qualit�
 Modification avec GitHub
+Encore une modif
