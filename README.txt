@@ -1,1 +1,1 @@
-Ma premiere ligne de code
+Ce projet est un projet d'apprentissage. 
