@@ -1,1 +1,2 @@
-une ligne de qualité
+une ligne de qualitï¿½
+Modification avec GitHub
